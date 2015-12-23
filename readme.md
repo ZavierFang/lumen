@@ -7,6 +7,7 @@
 [![License](https://poser.pugx.org/laravel/lumen-framework/license.svg)](https://packagist.org/packages/laravel/lumen-framework)
 
 这是一个基于Lumen开发的博客系统。目前处于完善阶段，只是实现了一些基础功能。速度挺快，以为lumen是为速度而生的laravel框架。演示地址：(http://meibk.com)
+国内网上github经常抽风，项目已经搬到 http://git.oschina.net/kubill/lumen
 
 ## Official Documentation
 
